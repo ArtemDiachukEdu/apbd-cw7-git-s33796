@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ApbdCw7.Api/ApbdCw7.Api.csproj" />
+  <Project Path="ApbdCw7.Core/ApbdCw7.Core.csproj" />
+  <Project Path="ApbdCw7.Infrastructure/ApbdCw7.Infrastructure.csproj" />
+</Solution>
